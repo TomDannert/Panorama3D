@@ -1,6 +1,6 @@
 # Panorama3D
 
-Panorama3D is a free 360° Image Viewer for the Delphi Firemonkey Framework. 
+Panorama3D is a free 360° Image Viewer Component for the Delphi Firemonkey Framework. 
 
 The Viewer works on all Firemonkey Platforms.
 
