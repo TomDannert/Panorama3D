@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.285,=C:\Development\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,C:\Development\Packages\FMXPAN100\Demo2\Main.pas=C:\Development\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\Development\Packages\FMXPAN100\Demo2\Demo2.dproj=C:\Development\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,C:\Development\Packages\FMXPAN100\Demo2\Main.fmx=C:\Development\Unit1.fmx</Transaction>
+    <Transaction>2019.03.06 20:37:13.108,C:\GitHub\Panorama3d\Demo\PanoDemo.dproj=C:\GitHub\Panorama3d\Demo2\Demo2.dproj</Transaction>
+    <Transaction>2019.03.06 20:37:30.658,C:\GitHub\Panorama3d\Demo\Main.fmx=C:\GitHub\Panorama3d\Demo2\Main.fmx</Transaction>
+    <Transaction>2019.03.06 20:37:30.658,C:\GitHub\Panorama3d\Demo\Main.pas=C:\GitHub\Panorama3d\Demo2\Main.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+		<Pdannert iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.314,=fmx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,=C:\Development\Packages\FMXPAN100\Source\FMX.PanoRegs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,C:\Development\Package1.dproj=C:\Development\Packages\FMXPAN100\Packages\FMXPAN100.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,=C:\Development\Packages\FMXPAN100\Res\Panorama.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.044,=C:\Development\Packages\FMXPAN100\Source\FMX.Panorama.pas</Transaction>
+  </Transactions>
+</BorlandProject>
